@@ -15,6 +15,7 @@ EG-ST/
   learner.py                 Physics-informed pre-training and fast learning module
   functions.py               Data loading, dataset construction, and evaluation metrics
   baselines.py               Baseline model implementations
+  analysis.py               Perform periodicity analysis on the data in the dataset.        
 LICENSE                    License file
 checkpoints/               Directory for saving trained model checkpoints
 results/                   Directory for saving testing results
